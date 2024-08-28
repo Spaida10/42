@@ -1,28 +1,28 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_str_is_alpha.c                                  :+:      :+:    :+:   */
+/*   ft_str_is_uppercase.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: gubaptis <gubaptis@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/08/28 01:03:59 by gubaptis          #+#    #+#             */
-/*   Updated: 2024/08/28 01:03:59 by gubaptis         ###   ########.fr       */
+/*   Created: 2024/08/28 02:41:28 by gubaptis          #+#    #+#             */
+/*   Updated: 2024/08/28 02:41:28 by gubaptis         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_str_is_alpha(char *str)
+int	ft_str_is_uppercase(char *str)
 {
 	int idx;
 
 	idx = 0;
 
-    while(str[idx] != '\0')
+	while(str[idx] != '\0')
 	{
-		if((str[idx] >= 'a' && str[idx] <= 'z') || (str[idx] >= 'A' && str[idx] <= 'Z'))
+		if(str[idx] >= 'A' && str[idx] <= 'Z')
 		{
 			idx++;
 		}
-		
+
 		else
 		{
 			return(0);
@@ -31,9 +31,8 @@ int ft_str_is_alpha(char *str)
 	return(1);
 }
 
-
 //#include <stdio.h>
 int main()
 {
-	printf("%d", ft_str_is_alpha("a"));
+	printf("pega ai: %d", ft_str_is_uppercase("abcde"));
 }
