@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: gubaptis <gubaptis@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/23 01:02:23 by marvin            #+#    #+#             */
 /*   Updated: 2024/08/23 01:02:23 by marvin           ###   ########.fr       */
