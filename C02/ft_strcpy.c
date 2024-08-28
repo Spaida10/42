@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcpy.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gubaptis <gubaptis@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: gubaptis <gubaptis@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/27 23:28:01 by gubaptis          #+#    #+#             */
 /*   Updated: 2024/08/27 23:28:01 by gubaptis         ###   ########.fr       */
