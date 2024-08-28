@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_str_is_alpha.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gubaptis <gubaptis@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: gubaptis <gubaptis@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/28 01:03:59 by gubaptis          #+#    #+#             */
 /*   Updated: 2024/08/28 01:03:59 by gubaptis         ###   ########.fr       */
